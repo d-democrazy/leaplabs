@@ -28,8 +28,8 @@ export default function Home() {
         <main className={styles.main}>
           <Image
             className={styles.logo}
-            src="/next.svg"
-            alt="Next.js logo"
+            src="/leaplabstext.png"
+            alt="Leap Labs Text Logo"
             width={100}
             height={20}
             priority
